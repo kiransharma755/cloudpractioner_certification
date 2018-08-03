@@ -30,3 +30,8 @@ https://aws.amazon.com/blogs/apn/the-5-pillars-of-the-aws-well-architected-frame
 
 shared security model
 https://aws.amazon.com/premiumsupport/knowledge-center/create-and-activate-aws-account/
+
+
+global infrastructure
+
+https://www.inqdo.com/aws-explained-global-infrastructure/?lang=en
