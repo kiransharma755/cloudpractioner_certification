@@ -137,9 +137,13 @@ AWS Whitepapers features a comprehensive list of technical AWS whitepapers, cove
 ![image](https://user-images.githubusercontent.com/22568316/43639567-a9e41a78-96ea-11e8-8214-9269bb327b75.png)
 ![image](https://user-images.githubusercontent.com/22568316/43639636-e28ee790-96ea-11e8-91e9-b86f11c6369c.png)
 
-# Cost of AWS Certifications
+#  AWS Certifications
 
-- The **Cloud Practitioner** exam is **100 USD**. -- 65 Questions
+1) The **Cloud Practitioner** exam is **100 USD**. -- 65 Questions
+- Sample Questions: https://d1.awsstatic.com/training-and-certification/Docs%20-%20Cloud%20Practitioner/AWS%20Certified%20Cloud%20Practioner_Sample%20Questions_v1.1_FINAL.PDF
+
+- BluePrint: https://d1.awsstatic.com/training-and-certification/Docs%20-%20Cloud%20Practitioner/AWS%20Certified%20Cloud%20Practitioner_Exam_Guide_v1.4_FINAL.PDF
+
 - **Associate-level exams** are **150 USD**. -- 65 Questions
 - **Professional-level** are **300 USD** --  80 Questions
 - **Specialty** exams  are **300 USD**.  -- 65 Questions
