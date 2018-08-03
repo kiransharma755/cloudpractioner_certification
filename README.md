@@ -14,3 +14,8 @@ https://d1.awsstatic.com/whitepapers/aws-tco-web-applications.pdf
 
 support plan
 https://aws.amazon.com/premiumsupport/compare-plans/?tag=viglink20307-20
+
+well architected framework
+
+https://aws.amazon.com/blogs/apn/the-5-pillars-of-the-aws-well-architected-framework/
+
