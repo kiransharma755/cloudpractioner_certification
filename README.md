@@ -259,3 +259,31 @@ AWS Whitepapers features a comprehensive list of technical AWS whitepapers, cove
 - **Amazon Simple Queue Service (SQS):** Managed Message Queues
 - **Amazon Simple Notification Service (SNS):** Pub/Sub, Mobile Push and SMS
 - **Amazon MQ:** Managed Message Broker for ActiveMQ
+
+
+
+### Trusted Advisor 
+1. Cost Optimization—recommendations that can reduce expenses by highlighting idle resources or by committing reserved resources.
+
+Example: Idle Load Balancers flags load balancers which are either not connected to any back-end instances or handling extremely low traffic.
+
+2. Security—recommendations that can harden your AWS services against intruders by enabling various security features.
+
+Example: MFA on Root Account checks if multi-factor authentication (MFA) has been enabled on a root account. AWS strongly recommends enabling MFA on root accounts to enhance security.
+
+3. Fault Tolerance—suggestions that enhance the resilience of your applications by highlighting health issues, missing backups, and redundancy shortfalls.
+
+Example: Amazon RDS Multi-AZ checks if the DB instance has been deployed in a single availability zone. In such a scenario, a DB failure will cause an outage because of a lack of high availability. Alternatively, a high-availability setup resumes operating from the standby database without any disruption to the business.
+
+4. Performance—suggestions that can increase the overall performance of your applications and cloud infrastructure by checking your service limits and monitoring instances.
+
+Example: High Utilization Amazon EC2 Instances checks the CPU utilization during the previous two weeks and sends alerts if daily utilization exceeded 90% for more than three days. Consistently high utilization can lead to application performance issues.
+
+There are six core Trusted Advisor checks, which are provided to customers free of charge. The remaining premium checks can be implemented by upgrading to business or enterprise support plans. The six core checks fall under the following security and performance categories:
+
+PerformanceService Limits
+SecuritySecurity Groups – Specific Ports Unrestricted
+IAM Use
+MFA on Root Access
+EBS Public Snapshots
+RDS Public Snapshots
