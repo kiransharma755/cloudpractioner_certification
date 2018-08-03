@@ -153,9 +153,10 @@ AWS Whitepapers features a comprehensive list of technical AWS whitepapers, cove
 ---
 
 
+## Security : The Shared Security Model
 
 
-
+![image](https://user-images.githubusercontent.com/12741205/43655896-6bf3d5e4-971e-11e8-96cb-e8d428ad2b50.png)
 
 
 
