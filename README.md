@@ -28,3 +28,5 @@ https://aws.amazon.com/premiumsupport/compare-plans/?tag=viglink20307-20
 https://aws.amazon.com/blogs/apn/the-5-pillars-of-the-aws-well-architected-framework/
 
 
+shared security model
+https://aws.amazon.com/premiumsupport/knowledge-center/create-and-activate-aws-account/
