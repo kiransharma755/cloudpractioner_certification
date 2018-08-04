@@ -198,6 +198,14 @@ AWS Whitepapers features a comprehensive list of technical AWS whitepapers, cove
 - **Recertification** exams are **75 USD**. 
 
 
+services covered in this certificaiton are 
+
+Compute
+Network
+storage
+Database
+Security 
+
 ---
 
 
