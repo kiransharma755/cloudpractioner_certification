@@ -6,23 +6,20 @@ These are subjective questions. So the answer may vary. But one thing every one 
 
 ## Pre-certification
 
-Before we delve into certificates, lets discuss what is aws?/ what is cloud computing ? 
+### What is AWS?
 
-Asssuming you are either working on cloud or are going to work, I would suggest let understand it jargon
+Amazon Web Services (AWS) is a secure cloud services platform, offering compute power, database storage, content delivery and other functionality to help businesses scale and grow. Businessed and idividual customers can use a wide variety of serivices and products on AWS to build applications with increased flexibility, scalability and reliability.
 
-some concept in cloud computing using AWS?
-pay as you go 
-on -demand computing 
-well archited framework 
-elasticity 
-scalling 
-autoscaling 
+
+### What is cloud computing?
+Cloud computing is the on-demand delivery of compute power, database storage, applications, and other
+IT resources through a cloud services platform via the Internet with pay-as-you-go pricing.
 
 
 -------------------------------
 ### Getting Started 
 
-Now lets proceed to get involved into the process
+Now lets proceed to get started with learning AWS 
 
 ### 1. Creating aws account
 
@@ -107,22 +104,7 @@ https://forums.aws.amazon.com/index.jspa
 2) Reddit AWS forum:
 https://www.reddit.com/r/aws
 
---
-## Global Infrastructure:
-AWS Global Infrastructure consists of:
-1) **Regions:**
-A region is a geographically seperated location in the world. Regions are designed to be completely isolated from one another.
-A region consists of one or more Avalability Zones(AZ's)
-2) **Availability Zones(AZ):**
-An AZ Consists of one or more discrete data centers. Each have redundant power supply. They are chosen to be away from areas that get flooded.
-### Global Infrastructure Benefits:
-Availability and Fault Tolerance
-Fulfill data residency and compliance requirements
-Ability to go global in minutes.
 
-The AWS Cloud spans 55 Availability Zones within 18 geographic Regions and 1 Local Region around the world, with announced plans for 12 more Availability Zones and four more Regions in Bahrain, Hong Kong SAR, Sweden, and a second AWS GovCloud Region in the US.
-
-![image](https://user-images.githubusercontent.com/22568316/43624542-1bd99322-96b6-11e8-98b9-b425c5680be3.png)
 
 ---
 ![image](https://user-images.githubusercontent.com/22568316/43624630-b50eed76-96b6-11e8-80c4-00f6fb5eb4b6.png)
@@ -190,100 +172,6 @@ AWS Whitepapers features a comprehensive list of technical AWS whitepapers, cove
 
 
 ---
-## AWS Products and Services
-
-### Compute
-
-- **Amazon EC2:**  Virtual Servers in the Cloud
-- **Amazon EC2 Auto Scaling:**  Scale Compute Capacity to Meet Demand
-- **Amazon Elastic Container Service:**  Run and Manage Docker Containers
-- **Amazon Elastic Container Service for Kubernetes:**  Run Managed Kubernetes on AWS
-- **Amazon Elastic Container Registry:** Store and Retrieve Docker Images
-- **Amazon Lightsail:**  Launch and Manage Virtual Private Servers
-- **AWS Batch:**  Run Batch Jobs at Any Scale
-- **AWS Elastic Beanstalk:**  Run and Manage Web Apps
-- **AWS Fargate:**  Run Containers without Managing Servers or Clusters
-- **AWS Lambda:**  Run your Code in Response to Events
-- **AWS Serverless Application Repository:**  Discover, Deploy, and Publish Serverless Applications
-- **VMware Cloud on AWS:**  Build a Hybrid Cloud without Custom Hardware
-
-
-### Storage
-
-- **Amazon S3 :**  Scalable Storage in the Cloud
-- **Amazon EBS :**  Block Storage for EC2
-- **Amazon Elastic File System :**  Managed File Storage for EC2
-- **Amazon Glacier:**  Low-cost Archive Storage in the Cloud
-- **AWS Storage Gateway :**  Hybrid Storage Integration
-- **AWS Snowball:**  Petabyte-scale Data Transport
-- **AWS Snowball Edge:**  Petabyte-scale Data Transport with On-board Compute
-- **AWS Snowmobile:**  Exabyte-scale Data Transport
-
-### Database
-- **Amazon Aurora:**  High Performance Managed Relational Database
-- **Amazon RDS :** Managed Relational Database Service for MySQL, PostgreSQL, Oracle, SQL Server, and MariaDB
-- **Amazon DynamoDB :** Managed NoSQL Database
-- **Amazon ElastiCache :** In-memory Caching System
-- **Amazon Redshift :** Fast, Simple, Cost-effective Data Warehousing
-- **Amazon Neptune :** Fully Managed Graph Database Service
-- **AWS Database Migration Service :** Migrate Databases with Minimal Downtime
-
-### Migration
-- **AWS Database Migration Service:** Migrate Databases with Minimal Downtime
-- **AWS Application Discovery Service:** Discover On-Premises Applications to Streamline Migration
-- **AWS Database Migration Service:** Migrate Databases with Minimal Downtime
-- **AWS Migration Hub:** Track Migrations from a Single Place
-- **AWS Server Migration Service:** Migrate On-Premises Servers to AWS
-- **AWS Snowball:** Petabyte-scale Data Transport
-- **AWS Snowball Edge:** Petabyte-scale Data Transport with On-board Compute
-- **AWS Snowmobile:** Exabyte-scale Data Transport
-
-### Networking and content delivery
-
-- **Amazon VPC:** Isolated Cloud Resources
-- **Amazon CloudFront:** Global Content Delivery Network
-- **Amazon Route 53:** Scalable Domain Name System
-- **Amazon API Gateway:** Build, Deploy, and Manage APIs
-- **AWS Direct Connect:** Dedicated Network Connection to AWS
-- **Elastic Load Balancing:** High Scale Load Balancing
-
-### Management Services
-
-- **Amazon CloudWatch:** Monitor Resources and Applications
-- **AWS Auto Scaling:** Scale Multiple Resources to Meet Demand
-- **AWS CloudFormation:** Create and Manage Resources with Templates
-- **AWS CloudTrail:** Track User Activity and API Usage
-- **AWS Config:** Track Resource Inventory and Changes
-- **AWS OpsWorks:** Automate Operations with Chef and Puppet
-- **AWS Service Catalog:** Create and Use Standardized Products
-- **AWS Systems Manager:** Gain Operational Insights and Take Action
-- **AWS Trusted Advisor:** Optimize Performance and Security
-- **AWS Personal Health Dashboard:** Personalized View of AWS Service Health
-
-### Security Identity and Compliance
-
-- **AWS Identity & Access Management:** Manage User Access and Encryption Keys
-- **Amazon Cloud Directory:** Create Flexible Cloud-native Directories
-- **Amazon Cognito:** Identity Management for your Apps
-- **AWS Single Sign-On:** Cloud Single Sign-On (SSO) Service
-- **Amazon GuardDuty:** Managed Threat Detection Service
-- **AWS Direct Connect:** Dedicated Network Connection to AWS
-- **Amazon Inspector:** Analyze Application Security
-- **Amazon Macie:** Discover, Classify, and Protect your Data
-- **AWS Certificate Manager:** Provision, Manage, and Deploy SSL/TLS Certificates
-- **AWS CloudHSM:** Hardware-based Key Storage for Regulatory Compliance
-- **AWS Directory Service:** Host and Manage Active Directory
-- **AWS Key Management Service:** Managed Creation and Control of Encryption Keys
-- **AWS Organizations:** Policy-based Management for Multiple AWS Accounts
-- **AWS Shield:** DDoS Protection
-- **AWS WAF:** Filter Malicious Web Traffic
-
-### Aplication integration Services
-
-- **AWS Step Functions:** Coordinate Distributed Applications
-- **Amazon Simple Queue Service (SQS):** Managed Message Queues
-- **Amazon Simple Notification Service (SNS):** Pub/Sub, Mobile Push and SMS
-- **Amazon MQ:** Managed Message Broker for ActiveMQ
 
 
 
