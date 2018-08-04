@@ -36,23 +36,23 @@ There are three types of cloud deployments:
 #### Platform-as-a-Service(PaaS)
 #### Software-as-a-Service(SaaS )
 
-### Also we may even say ### Storage, ### Database, ### Information, ### Process, ### Application, ### Integration, ### Security, ### Management, and ### Testing-as-a-service
+#### Also we may even say Storage, Database, Information, Process, Application, Integration, Security, Management, and Testing-as-a-service
 
 -------------------------------
 # Getting Started 
 
 Now lets proceed to get involved into the process
 
-### 1. Creating aws account
+## 1. Creating aws account
 
 Creating account with aws is the first steps. It is very simple process which is explained in the lnk below
 
 https://aws.amazon.com/premiumsupport/knowledge-center/create-and-activate-aws-account/
 
 
-### Here are some of the suggested readings for AWS cloud practioner certificaiton , the entry level exam
+#### Here are some of the suggested readings for AWS cloud practioner certificaiton , the entry level exam
 
-### 2. undersstanding AWS
+#### 2. undersstanding AWS
 2.1 overview
 https://d0.awsstatic.com/whitepapers/aws-overview.pdf
 
