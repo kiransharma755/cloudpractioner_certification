@@ -6,27 +6,29 @@ These are subjective questions. So the answer may vary. But one thing every one 
 
 # Pre-certification
 
+
 Before we delve into certification details, lets discuss a few terminologies:
 
-1. what is aws?/ what is cloud computing ? 
+### What is AWS and /or Cloud computing?
 
 cloud computing is delivery of IT and related services through internet.  AWS is cloud offering from Amazon.
 
 
-2. Pay as you go 
-3. on -demand computing 
-4. well archited framework 
-5. elasticity 
-6. scalling 
+## what is  Pay as you go pricing model ?
+### what is on -demand computing ?
+### what is well archited framework ?
+### what is an elastic computing?
+### what is scalling and how does it differ from elasticity?
 
-# Types of cloud or cloud deployment model
+
+## Types of cloud or cloud deployment model
 There are three types of cloud deployments:
 
-1. private cloud 
-2. public cloud 
-3. Hybridge 
+### 1. private cloud 
+### 2. public cloud 
+### 3. Hybridge 
 
-# cloud services 
+## cloud services 
 There are 3 types of cloud computing services
 
 ### Infrastructure-as-a-Service(IaaS )
