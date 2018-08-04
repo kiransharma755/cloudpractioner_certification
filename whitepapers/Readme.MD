@@ -15,7 +15,8 @@ Out of all the whitepapers, here's a must read recommendation for the Cloud Prac
   - Overview of all AWS services.
 
 - AWS Storage Services Overview (December 2016)   
-  - Overview of storage solutions available from AWS.
+  - Overview of storage solutions available from AWS.https://d0.awsstatic.com/whitepapers/aws-overview.pdf
+
 - AWS Well-Architected Framework (June 2018)   
   - Overview of the Well-Architected Framework to validate your architecture.
 - An Overview of the AWS Cloud Adoption Framework 
@@ -28,4 +29,13 @@ Out of all the whitepapers, here's a must read recommendation for the Cloud Prac
   - Prescriptive guidance for architects designing solutions with AWS services.
 - The Business Value of AWS: Succeeding at Twenty-First Century Business Infrastructure (June 2015)    
   - Using AWS to drive business value and agility.
+- Best practices
+  - https://d0.awsstatic.com/whitepapers/AWS_Cloud_Best_Practices.pdf
+- Pricing
+  - https://d0.awsstatic.com/whitepapers/aws_pricing_overview.pdf
 -----
+
+
+
+
+
