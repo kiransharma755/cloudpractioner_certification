@@ -6,17 +6,18 @@ These are subjective questions. So the answer may vary. But one thing every one 
 
 ## Pre-certification
 
-Before we delve into certificates, lets discuss what is aws?/ what is cloud computing ? 
+Before we delve into certification details, lets discuss a few terminologies:
 
-Asssuming you are either working on cloud or are going to work, I would suggest let understand it jargon
+1. what is aws?/ what is cloud computing ? 
 
-some concept in cloud computing using AWS?
-pay as you go 
-on -demand computing 
-well archited framework 
-elasticity 
-scalling 
-autoscaling 
+cloud computing is delivery of IT and related services through internet.  AWS is cloud offering from Amazon.
+
+
+2. Pay as you go 
+3. on -demand computing 
+4. well archited framework 
+5. elasticity 
+6. scalling 
 
 
 -------------------------------
@@ -26,7 +27,10 @@ Now lets proceed to get involved into the process
 
 ### 1. Creating aws account
 
+Creating account with aws is the first steps. It is very simple process which is explained in the lnk below
+
 https://aws.amazon.com/premiumsupport/knowledge-center/create-and-activate-aws-account/
+
 
 ### Here are some of the suggested readings for AWS cloud practioner certificaiton , the entry level exam
 
