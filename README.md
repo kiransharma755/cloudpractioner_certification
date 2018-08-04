@@ -36,7 +36,7 @@ There are three types of cloud deployments:
 #### Platform-as-a-Service(PaaS)
 #### Software-as-a-Service(SaaS )
 
-#### Also we may even say ###Storage, ###Database, ###Information, ###Process, ###Application, ###Integration, ###Security, ###Management, and ###Testing-as-a-service
+### Also we may even say ### Storage, ### Database, ### Information, ### Process, ### Application, ### Integration, ### Security, ### Management, and ### Testing-as-a-service
 
 -------------------------------
 # Getting Started 
