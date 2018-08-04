@@ -208,6 +208,8 @@ storage
 Database
 Security 
 
+Also, management and migration are also touched upon. 
+
 ---
 
 
