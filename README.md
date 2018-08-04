@@ -24,18 +24,19 @@ cloud computing is delivery of IT and related services through internet.  AWS is
 ## Types of cloud or cloud deployment model
 There are three types of cloud deployments:
 
-#### 1. private cloud 
-#### 2. public cloud 
+#### 1. Private cloud 
+#### 2. Public cloud 
 #### 3. Hybridge 
 
-## cloud services 
+
+## Cloud services 
 #### There are 3 types of cloud computing services
 
 #### Infrastructure-as-a-Service(IaaS )
 #### Platform-as-a-Service(PaaS)
 #### Software-as-a-Service(SaaS )
 
-#### Also we may even say Storage, Database, Information, Process, Application, Integration, Security, Management, Testing-as-a-service
+#### Also we may even say ###Storage, ###Database, ###Information, ###Process, ###Application, ###Integration, ###Security, ###Management, and ###Testing-as-a-service
 
 -------------------------------
 # Getting Started 
