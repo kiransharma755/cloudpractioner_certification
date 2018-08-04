@@ -1,5 +1,5 @@
 
-# AWS Whitepapers: Great reosources to learn AWS and its use cases.
+# AWS Whitepapers: Great resource to learn AWS and its use cases.
 
 
 AWS Whitepapers features a comprehensive list of technical AWS whitepapers, covering topics such as architecture, security, and economics. These whitepapers have been authored by the AWS Team, independent analysts, or the AWS Community (Customers or Partners). 
