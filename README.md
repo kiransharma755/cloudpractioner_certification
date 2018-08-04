@@ -115,8 +115,6 @@ https://aws.amazon.com/faqs/
 **To make Great Looking AWS Diagrams**
 cloudcraft.co
 
-
-
 --
 # Global Infrastructure:
 AWS Global Infrastructure consists of:
@@ -178,7 +176,7 @@ AWS Whitepapers features a comprehensive list of technical AWS whitepapers, cove
 
 -----
 ![image](https://user-images.githubusercontent.com/22568316/43639567-a9e41a78-96ea-11e8-8214-9269bb327b75.png)
-![image](https://user-images.githubusercontent.com/22568316/43639636-e28ee790-96ea-11e8-91e9-b86f11c6369c.png)
+
 
 
 
@@ -211,6 +209,7 @@ That could help to improve performance
 
 
 #  AWS Certifications
+![image](https://user-images.githubusercontent.com/22568316/43639636-e28ee790-96ea-11e8-91e9-b86f11c6369c.png)
 
 1) The **Cloud Practitioner** exam is **100 USD**. -- 65 Questions
 - Sample Questions: https://d1.awsstatic.com/training-and-certification/Docs%20-%20Cloud%20Practitioner/AWS%20Certified%20Cloud%20Practioner_Sample%20Questions_v1.1_FINAL.PDF
