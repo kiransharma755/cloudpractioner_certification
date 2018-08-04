@@ -303,28 +303,20 @@ AWS Whitepapers features a comprehensive list of technical AWS whitepapers, cove
 
 
 
-### Trusted Advisor 
-1. Cost Optimization—recommendations that can reduce expenses by highlighting idle resources or by committing reserved resources.
+### What is a Trusted Advisor? 
 
-Example: Idle Load Balancers flags load balancers which are either not connected to any back-end instances or handling extremely low traffic.
+Truested Advisor is an AWS service that provides recommendation in the follwoing areas
 
-2. Security—recommendations that can harden your AWS services against intruders by enabling various security features.
+1. Cost Optimization—recommendations 
+This helps to reduce expenses 
 
-Example: MFA on Root Account checks if multi-factor authentication (MFA) has been enabled on a root account. AWS strongly recommends enabling MFA on root accounts to enhance security.
+2. Security—recommendations 
+This could improve the security 
 
-3. Fault Tolerance—suggestions that enhance the resilience of your applications by highlighting health issues, missing backups, and redundancy shortfalls.
+3. Fault Tolerance—suggestions
+This could improve management of application 
 
-Example: Amazon RDS Multi-AZ checks if the DB instance has been deployed in a single availability zone. In such a scenario, a DB failure will cause an outage because of a lack of high availability. Alternatively, a high-availability setup resumes operating from the standby database without any disruption to the business.
+4. Performance—suggestions 
+That could help to improve performance
 
-4. Performance—suggestions that can increase the overall performance of your applications and cloud infrastructure by checking your service limits and monitoring instances.
 
-Example: High Utilization Amazon EC2 Instances checks the CPU utilization during the previous two weeks and sends alerts if daily utilization exceeded 90% for more than three days. Consistently high utilization can lead to application performance issues.
-
-There are six core Trusted Advisor checks, which are provided to customers free of charge. The remaining premium checks can be implemented by upgrading to business or enterprise support plans. The six core checks fall under the following security and performance categories:
-
-PerformanceService Limits
-SecuritySecurity Groups – Specific Ports Unrestricted
-IAM Use
-MFA on Root Access
-EBS Public Snapshots
-RDS Public Snapshots
