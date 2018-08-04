@@ -4,43 +4,62 @@ Is getting certified good ? Does certificate carry any value?
 
 These are subjective questions. So the answer may vary. But one thing every one would agree is that the certificate may not carry any value but the knowlege gained in the process is definitely valuable. Again quesiton comes why do we need to get certified in order to gain knowledge? It does not, but when there is not goal, we will not do a through reading or practice. Having a gola compels us to do things which we may not do otherwise. 
 
-## Getting started 
+## Pre-certification
 
-### Creating aws account
+Before we delve into certificates, lets discuss what is aws?/ what is cloud computing ? 
+
+Asssuming you are either working on cloud or are going to work, I would suggest let understand it jargon
+
+some concept in cloud computing using AWS?
+pay as you go 
+on -demand computing 
+well archited framework 
+elasticity 
+scalling 
+autoscaling 
+
+
+-------------------------------
+### Getting Started 
+
+Now lets proceed to get involved into the process
+
+### 1. Creating aws account
 
 https://aws.amazon.com/premiumsupport/knowledge-center/create-and-activate-aws-account/
 
 ### Here are some of the suggested readings for AWS cloud practioner certificaiton , the entry level exam
 
-### 1. overview
+### 2. undersstanding AWS
+2.1 overview
 https://d0.awsstatic.com/whitepapers/aws-overview.pdf
 
-2. Best practices
+2.2. Best practices
 https://d0.awsstatic.com/whitepapers/AWS_Cloud_Best_Practices.pdf
 
-3. pricing
+2.3. pricing
 https://d0.awsstatic.com/whitepapers/aws_pricing_overview.pdf
 https://d1.awsstatic.com/whitepapers/aws-tco-web-applications.pdf
 
 
-4. support plan
+2.4. support plan
 https://aws.amazon.com/premiumsupport/compare-plans/?tag=viglink20307-20
 
-5. well architected framework
+2.5. well architected framework
 https://aws.amazon.com/blogs/apn/the-5-pillars-of-the-aws-well-architected-framework/
 
 
-6) shared security model
+2.6) shared security model
 https://aws.amazon.com/premiumsupport/knowledge-center/create-and-activate-aws-account/
 
 
-7) global infrastructure
+2.7) global infrastructure
 
 https://www.inqdo.com/aws-explained-global-infrastructure/?lang=en
 
 
 
-# Resources to learn AWS
+### 3. Resources to learn AWS
 **AWS Frequently asked questions:**
 
 https://aws.amazon.com/faqs/
