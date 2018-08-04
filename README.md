@@ -1,10 +1,10 @@
-### How to get AWS Certified 
+# How to get AWS Certified 
 
 Is getting certified good ? Does certificate carry any value?
 
 These are subjective questions. So the answer may vary. But one thing every one would agree is that the certificate may not carry any value but the knowlege gained in the process is definitely valuable. Again quesiton comes why do we need to get certified in order to gain knowledge? It does not, but when there is not goal, we will not do a through reading or practice. Having a gola compels us to do things which we may not do otherwise. 
 
-## Pre-certification
+# Pre-certification
 
 Before we delve into certification details, lets discuss a few terminologies:
 
@@ -19,8 +19,8 @@ cloud computing is delivery of IT and related services through internet.  AWS is
 5. elasticity 
 6. scalling 
 
-### types of cloud or cloud deployment model
-there are three types of cloud deployments:
+# Types of cloud or cloud deployment model
+There are three types of cloud deployments:
 
 1. private cloud 
 2. public cloud 
@@ -36,7 +36,7 @@ There are 3 types of cloud computing services
 ### Also we may even say Storage, Database, Information, Process, Application, Integration, Security, Management, Testing-as-a-service
 
 -------------------------------
-### Getting Started 
+# Getting Started 
 
 Now lets proceed to get involved into the process
 
@@ -127,7 +127,7 @@ https://forums.aws.amazon.com/index.jspa
 https://www.reddit.com/r/aws
 
 --
-## Global Infrastructure:
+# Global Infrastructure:
 AWS Global Infrastructure consists of:
 1) **Regions:**
 A region is a geographically seperated location in the world. Regions are designed to be completely isolated from one another.
@@ -149,7 +149,9 @@ The AWS Cloud spans 55 Availability Zones within 18 geographic Regions and 1 Loc
 --
 ![image](https://user-images.githubusercontent.com/22568316/43624639-c352cb50-96b6-11e8-9dc1-5a22d894fb5c.png)
 
+
 --
+
 ## AWS Whitepapers: Great reosources to learn AWS and its use cases.
 
 AWS Whitepapers features a comprehensive list of technical AWS whitepapers, covering topics such as architecture, security, and economics. These whitepapers have been authored by the AWS Team, independent analysts, or the AWS Community (Customers or Partners). 
@@ -199,17 +201,10 @@ AWS Whitepapers features a comprehensive list of technical AWS whitepapers, cove
 
 ## Security : The Shared Security Model
 
-
 ![image](https://user-images.githubusercontent.com/12741205/43655896-6bf3d5e4-971e-11e8-96cb-e8d428ad2b50.png)
 
-
-
-
-
-
-
----
-## AWS Products and Services
+--
+# AWS Products and Services
 
 ### Compute
 
