@@ -5,12 +5,9 @@ Is getting certified good ? Does certificate carry any value?
 These are subjective questions. So the answer may vary. But one thing every one would agree is that the certificate may not carry any value but the knowlege gained in the process is definitely valuable. Again quesiton comes why do we need to get certified in order to gain knowledge? It does not, but when there is not goal, we will not do a through reading or practice. Having a gola compels us to do things which we may not do otherwise. 
 
 # Pre-certification
-
-
 Before we delve into certification details, lets discuss a few terminologies:
 
 ### What is AWS and /or Cloud computing?
-
 cloud computing is delivery of IT and related services through internet.  AWS is cloud offering from Amazon.
 
 
@@ -52,7 +49,7 @@ https://aws.amazon.com/premiumsupport/knowledge-center/create-and-activate-aws-a
 
 #### Here are some of the suggested readings for AWS cloud practioner certificaiton , the entry level exam
 
-#### 2. undersstanding AWS
+## 2. undersstanding AWS
 2.1 overview
 https://d0.awsstatic.com/whitepapers/aws-overview.pdf
 
@@ -81,7 +78,7 @@ https://www.inqdo.com/aws-explained-global-infrastructure/?lang=en
 
 
 
-### 3. Resources to learn AWS
+## 3. Resources to learn AWS
 **AWS Frequently asked questions:**
 
 https://aws.amazon.com/faqs/
