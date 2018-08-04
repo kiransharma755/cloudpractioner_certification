@@ -119,15 +119,6 @@ cloudcraft.co
 
 
 
-#### Where to ask questions? If you’re confused and want insight on something or want to troubleshoot an issue, you can use these highly online active community forums.
-
-1) Official AWS forum :
-https://forums.aws.amazon.com/index.jspa
-
-
-2) Reddit AWS forum:
-https://www.reddit.com/r/aws
-
 --
 # Global Infrastructure:
 AWS Global Infrastructure consists of:
@@ -154,7 +145,18 @@ The AWS Cloud spans 55 Availability Zones within 18 geographic Regions and 1 Loc
 
 --
 
+#### Where to ask questions? If you’re confused and want insight on something or want to troubleshoot an issue, you can use these highly online active community forums.
+
+1) Official AWS forum :
+https://forums.aws.amazon.com/index.jspa
+
+
+2) Reddit AWS forum:
+https://www.reddit.com/r/aws
+
+--
 ## AWS Whitepapers: Great reosources to learn AWS and its use cases.
+
 
 AWS Whitepapers features a comprehensive list of technical AWS whitepapers, covering topics such as architecture, security, and economics. These whitepapers have been authored by the AWS Team, independent analysts, or the AWS Community (Customers or Partners). 
 
@@ -198,7 +200,9 @@ AWS Whitepapers features a comprehensive list of technical AWS whitepapers, cove
 - **Recertification** exams are **75 USD**. 
 
 
-services covered in this certificaiton are 
+## Serviced covered in the certificaiton exam:
+
+The following services covered in CP exam
 
 Compute
 Network
