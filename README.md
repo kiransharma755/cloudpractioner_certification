@@ -171,11 +171,6 @@ AWS Whitepapers features a comprehensive list of technical AWS whitepapers, cove
 # Frameworks
 ![image](https://user-images.githubusercontent.com/22568316/43626328-641cbf7a-96bf-11e8-8608-002997fdbf87.png)
 
-# DevOps
-![image](https://user-images.githubusercontent.com/22568316/43626342-722131fa-96bf-11e8-8fef-aeaa59ef57f2.png)
-
-![image](https://user-images.githubusercontent.com/22568316/43626348-7df823d0-96bf-11e8-92dc-9b6af21be7b4.png)
-
 --
 # Migration
 ![image](https://user-images.githubusercontent.com/22568316/43626367-90f19034-96bf-11e8-9331-2d1a69bc21b2.png)
@@ -335,3 +330,12 @@ Also, management,  migration and Application Integration are also touched upon.
 - **Amazon Simple Queue Service (SQS):** Managed Message Queues
 - **Amazon Simple Notification Service (SNS):** Pub/Sub, Mobile Push and SMS
 - **Amazon MQ:** Managed Message Broker for ActiveMQ
+
+
+# Devops Certification 
+
+## DevOps
+![image](https://user-images.githubusercontent.com/22568316/43626342-722131fa-96bf-11e8-8fef-aeaa59ef57f2.png)
+
+![image](https://user-images.githubusercontent.com/22568316/43626348-7df823d0-96bf-11e8-92dc-9b6af21be7b4.png)
+
