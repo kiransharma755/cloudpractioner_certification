@@ -185,6 +185,36 @@ AWS Whitepapers features a comprehensive list of technical AWS whitepapers, cove
 ![image](https://user-images.githubusercontent.com/22568316/43639567-a9e41a78-96ea-11e8-8214-9269bb327b75.png)
 ![image](https://user-images.githubusercontent.com/22568316/43639636-e28ee790-96ea-11e8-91e9-b86f11c6369c.png)
 
+
+
+## Security : The Shared Security Model
+
+![image](https://user-images.githubusercontent.com/12741205/43655896-6bf3d5e4-971e-11e8-96cb-e8d428ad2b50.png)
+
+--
+### What is a Trusted Advisor? 
+
+Truested Advisor is an AWS service that provides recommendation in the follwoing areas
+
+1. Cost Optimization—recommendations 
+This helps to reduce expenses 
+
+2. Security—recommendations 
+This could improve the security 
+
+3. Fault Tolerance—suggestions
+This could improve management of application 
+
+4. Performance—suggestions 
+That could help to improve performance
+
+
+--
+
+
+
+
+
 #  AWS Certifications
 
 1) The **Cloud Practitioner** exam is **100 USD**. -- 65 Questions
@@ -208,16 +238,9 @@ storage
 Database
 Security 
 
-Also, management and migration are also touched upon. 
+Also, management,  migration and Application Integration are also touched upon. 
 
 ---
-
-
-## Security : The Shared Security Model
-
-![image](https://user-images.githubusercontent.com/12741205/43655896-6bf3d5e4-971e-11e8-96cb-e8d428ad2b50.png)
-
---
 # AWS Products and Services
 
 ### Compute
@@ -312,23 +335,3 @@ Also, management and migration are also touched upon.
 - **Amazon Simple Queue Service (SQS):** Managed Message Queues
 - **Amazon Simple Notification Service (SNS):** Pub/Sub, Mobile Push and SMS
 - **Amazon MQ:** Managed Message Broker for ActiveMQ
-
-
-
-### What is a Trusted Advisor? 
-
-Truested Advisor is an AWS service that provides recommendation in the follwoing areas
-
-1. Cost Optimization—recommendations 
-This helps to reduce expenses 
-
-2. Security—recommendations 
-This could improve the security 
-
-3. Fault Tolerance—suggestions
-This could improve management of application 
-
-4. Performance—suggestions 
-That could help to improve performance
-
-
