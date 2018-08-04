@@ -79,6 +79,6 @@ https://www.reddit.com/r/aws
 ---
 
 ## Questions? Open an Issue in this repo
-![image](https://user-images.githubusercontent.com/12741205/43679832-7597f8f0-97fa-11e8-885f-ef88cf0068d7.png)
+![image](https://user-images.githubusercontent.com/12741205/43679847-de2da0c2-97fa-11e8-9e15-748531e99baa.png)
 
 
