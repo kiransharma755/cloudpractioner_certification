@@ -332,11 +332,10 @@ Also, management,  migration and Application Integration are also touched upon.
 
 
 ### Resources
-https://github.com/slashr/Tomcat-Cluster-Load-Balancing/blob/master/setup.yml
+https://wiki2.easycloudsolutions.com/display/AC/2018%3A+AWS+Cloud+Practitioner+Exam+Notes
 
 # Devops Certification 
 
-## DevOps
 ![image](https://user-images.githubusercontent.com/22568316/43626342-722131fa-96bf-11e8-8fef-aeaa59ef57f2.png)
 
 ![image](https://user-images.githubusercontent.com/22568316/43626348-7df823d0-96bf-11e8-92dc-9b6af21be7b4.png)
