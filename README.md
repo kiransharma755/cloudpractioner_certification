@@ -185,7 +185,7 @@ AWS Whitepapers features a comprehensive list of technical AWS whitepapers, cove
 
 ## Security : The Shared Security Model
 
-![image](https://user-images.githubusercontent.com/12741205/43655896-6bf3d5e4-971e-11e8-96cb-e8d428ad2b50.png)
+### ![image](https://user-images.githubusercontent.com/12741205/43655896-6bf3d5e4-971e-11e8-96cb-e8d428ad2b50.png)
 
 --
 ### What is a Trusted Advisor? 
@@ -216,7 +216,7 @@ That could help to improve performance
 - **Recertification** exams are **75 USD**. 
 
 ### ####################################################################
-1) The **Cloud Practitioner** 
+## [1] The **Cloud Practitioner** 
 
 Cloud practiner is the foundational level exam. 
 Here is the syllabus 
@@ -224,11 +224,6 @@ Here is the syllabus
 
 Feee: **100 USD**.
 No of quesitons:  65 Questions
-
-### - Sample Questions: https://d1.awsstatic.com/training-and-certification/Docs%20-%20Cloud%20Practitioner/AWS%20Certified%20Cloud%20Practioner_Sample%20Questions_v1.1_FINAL.PDF
-
-
-
 
 ## Serviced covered in the certificaiton exam:
 
@@ -338,10 +333,10 @@ Also, management,  migration and Application Integration are also touched upon.
 - **Amazon Simple Notification Service (SNS):** Pub/Sub, Mobile Push and SMS
 - **Amazon MQ:** Managed Message Broker for ActiveMQ
 
+## Resources
+### - Sample Questions: https://d1.awsstatic.com/training-and-certification/Docs%20-%20Cloud%20Practitioner/AWS%20Certified%20Cloud%20Practioner_Sample%20Questions_v1.1_FINAL.PDF
 
-### Resources
-
-# Devops Certification 
+## [2] Devops Professional Certification 
 
 ![image](https://user-images.githubusercontent.com/22568316/43626342-722131fa-96bf-11e8-8fef-aeaa59ef57f2.png)
 
