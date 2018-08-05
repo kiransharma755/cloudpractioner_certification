@@ -144,7 +144,6 @@ The AWS Cloud spans 55 Availability Zones within 18 geographic Regions and 1 Loc
 
 
 --
-
 #### Where to ask questions? If you’re confused and want insight on something or want to troubleshoot an issue, you can use these highly online active community forums.
 
 1) Official AWS forum :
@@ -210,15 +209,25 @@ That could help to improve performance
 #  AWS Certifications
 ![image](https://user-images.githubusercontent.com/22568316/43639636-e28ee790-96ea-11e8-91e9-b86f11c6369c.png)
 
-1) The **Cloud Practitioner** exam is **100 USD**. -- 65 Questions
-- Sample Questions: https://d1.awsstatic.com/training-and-certification/Docs%20-%20Cloud%20Practitioner/AWS%20Certified%20Cloud%20Practioner_Sample%20Questions_v1.1_FINAL.PDF
-
-- BluePrint: https://d1.awsstatic.com/training-and-certification/Docs%20-%20Cloud%20Practitioner/AWS%20Certified%20Cloud%20Practitioner_Exam_Guide_v1.4_FINAL.PDF
 
 - **Associate-level exams** are **150 USD**. -- 65 Questions
 - **Professional-level** are **300 USD** --  80 Questions
 - **Specialty** exams  are **300 USD**.  -- 65 Questions
 - **Recertification** exams are **75 USD**. 
+
+### ####################################################################
+1) The **Cloud Practitioner** 
+
+Cloud practiner is the foundational level exam. 
+Here is the syllabus 
+- BluePrint: https://d1.awsstatic.com/training-and-certification/Docs%20-%20Cloud%20Practitioner/AWS%20Certified%20Cloud%20Practitioner_Exam_Guide_v1.4_FINAL.PDF
+
+Feee: **100 USD**.
+No of quesitons:  65 Questions
+
+### - Sample Questions: https://d1.awsstatic.com/training-and-certification/Docs%20-%20Cloud%20Practitioner/AWS%20Certified%20Cloud%20Practioner_Sample%20Questions_v1.1_FINAL.PDF
+
+
 
 
 ## Serviced covered in the certificaiton exam:
