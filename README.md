@@ -334,7 +334,8 @@ Also, management,  migration and Application Integration are also touched upon.
 - **Amazon MQ:** Managed Message Broker for ActiveMQ
 
 ## Resources
-### 1.Sample Questions: 
+
+### 1. Sample Questions 
 https://d1.awsstatic.com/training-and-certification/Docs%20-%20Cloud%20Practitioner/AWS%20Certified%20Cloud%20Practioner_Sample%20Questions_v1.1_FINAL.PDF
 
 ## [2] Devops Professional Certification 
