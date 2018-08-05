@@ -331,6 +331,9 @@ Also, management,  migration and Application Integration are also touched upon.
 - **Amazon MQ:** Managed Message Broker for ActiveMQ
 
 
+### Resources
+https://github.com/slashr/Tomcat-Cluster-Load-Balancing/blob/master/setup.yml
+
 # Devops Certification 
 
 ## DevOps
