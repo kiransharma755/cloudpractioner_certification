@@ -2,9 +2,9 @@
 
 Is getting certified good ? Does certificate carry any value?
 
-These are subjective questions therefore the answer may vary or will vary. But one thing every one would agree is that the certificate may not carry any value( depends) but the knowlege gained in the process is definitely valuable. Again quesiton comes why do we need to get certified in order to gain knowledge? We do not , but when there is not goal, we will not do a through reading or practice. Having a goal compels us to do things which we may not do otherwise. 
+These are subjective questions therefore the answer could vary. But one thing every one would agree is that the certificate may not carry any value( depending on what see valueable ) but the knowlege gained in the process of getting certified is definitely valuable. Again quesiton may arise  why do we need to get certified in order to gain knowledge? We do not study or do whatever practices we need? That is true  but when there is not a goal, we will not do a through reading or practice. Having a goal compels us to do things which we may not do otherwise. 
 
-Also, it will definitely gives us confidence while working on cloud or finding new jobs inside or outside on the organisation.  Thus, personally, I will see a great value of getting certified. 
+Also, it will definitely gives us confidence while working on cloud or finding new jobs inside or outside the organisation.  Thus, personally, I will see a great value of getting certified. 
 
 How can I get certified? 
 
