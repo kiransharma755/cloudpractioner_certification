@@ -27,7 +27,7 @@ There are three types of cloud deployments:
 
 #### 1. Private cloud 
 #### 2. Public cloud 
-#### 3. Hybridge 
+#### 3. Hybride 
 
 
 ## Cloud services 
