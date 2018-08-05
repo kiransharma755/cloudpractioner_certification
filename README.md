@@ -2,13 +2,17 @@
 
 Is getting certified good ? Does certificate carry any value?
 
-These are subjective questions. So the answer may vary. But one thing every one would agree is that the certificate may not carry any value but the knowlege gained in the process is definitely valuable. Again quesiton comes why do we need to get certified in order to gain knowledge? It does not, but when there is not goal, we will not do a through reading or practice. Having a gola compels us to do things which we may not do otherwise. 
+These are subjective questions therefore the answer may vary or will vary. But one thing every one would agree is that the certificate may not carry any value( depends) but the knowlege gained in the process is definitely valuable. Again quesiton comes why do we need to get certified in order to gain knowledge? We do not , but when there is not goal, we will not do a through reading or practice. Having a goal compels us to do things which we may not do otherwise. 
+
+Also, it will definitely gives us confidence while working on cloud or finding new jobs inside or outside on the organisation.  Thus, personally, I will see a great value of getting certified. 
+
+How can I get certified? 
 
 # Pre-certification
 Before we delve into certification details, lets discuss a few terminologies:
 
 ### What is AWS and /or Cloud computing?
-cloud computing is delivery of IT and related services through internet.  AWS is cloud offering from Amazon.
+cloud computing is delivery of IT and related services through the means of internet.  AWS is cloud offering from Amazon.
 
 
 #### what is  Pay as you go pricing model ?
